@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.10.2",
+    "concurrently": "^7.6.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.0",
+    "sweetalert2": "^11.6.15"
+  },
+  "name": "app-rent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"cd backend && npm start \" \"cd rent && npm start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

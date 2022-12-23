@@ -1,0 +1,31 @@
+.Row{
+    justify-content: center;
+}
+
+
+
+
+.caroussel{
+    justify-content: center;
+}
+
+.home text{
+    justify-items: center;
+
+}
+
+
+.container-footer{
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.row{
+    color: aliceblue;
+}
+.pa-1 caption {
+    justify-content: center;
+}
+.sign{
+    background-image: url(https://www.post.ch/-/media/post/incamail/bilder/incamail-sicherheit.jpg?vs=1);
+}

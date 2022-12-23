@@ -1,0 +1,3 @@
+
+export const ALERT_ERROS="ALERT_ERROS"
+export const CLEAR_ERROS="CLEAR_ERROS"
